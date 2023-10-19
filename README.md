@@ -5,7 +5,6 @@ This repository aims to diagnose types of faults based on time-domain vibration 
 - 4 DC Motors
     - Normal | Misalignment | Unbalance | Damaged Bearing
 - 26.5kHz Sampling Rate
-- Raspberry PI DAQ Hats MCC172
 - Data Collection: 102400 samples every 5 seconds
 
 ## Dependencies
