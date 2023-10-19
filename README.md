@@ -1,5 +1,5 @@
 # Fault Diagnosis with Time-Domain Vibration Data
-This repository aims to diagnose types of faults based on time-domain vibration data using neural networks. It covers experiments conducted with the Multi-Scale CNN-LSTM and Temporal Convolution Network-LSTM models.
+This repository aims to diagnose types of faults based on time-domain vibration data using neural networks. It covers experiments conducted with Temporal Convolution Network-LSTM models.
 
 ## Experimental Setup
 - 4 DC Motors
